@@ -1,0 +1,24 @@
+.video-player-card {
+  background: #181c24;
+  border-radius: 16px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.10);
+  padding: 24px;
+  min-width: 400px;
+  min-height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.video-player {
+  width: 400px;
+  max-width: 100%;
+  border-radius: 12px;
+  background: #000;
+}
+
+.video-placeholder {
+  color: #b3b8c5;
+  font-size: 1.1rem;
+  text-align: center;
+} 
